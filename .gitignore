@@ -56,7 +56,6 @@ desktop.ini
 # =========================
 *.apk
 *.aab
-*.unitypackage
 *.app
 *.exe
 *.dll
